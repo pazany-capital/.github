@@ -2,7 +2,8 @@
 
 ### General policy
 
-Please follow appropriate conventions, be it a language convention or REST API convention. Ask if you don't know or understand something. Don't spend too much time being stuck 
+- Please follow appropriate conventions, be it a language convention or REST API convention. Ask if you don't know or understand something. Don't spend too much time being stuck
+- Please cover your code with tests. Unit and *integrational(if it's appropriate)*
 
 ### Process of committing:
 
@@ -20,3 +21,7 @@ Please follow appropriate conventions, be it a language convention or REST API c
 6. Ask for a review from engineering team
 7. If a reviewer asks for a change - go back to step 2
 8. Merge
+
+### Repositories
+
+If you're creating a repository, let's discuss the name :) A bad beginning makes a bad ending.
